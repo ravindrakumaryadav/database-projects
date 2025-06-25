@@ -24,3 +24,7 @@
   - [Project Requirement](https://drive.google.com/file/d/1SiGPdhEXSCUtEiWbT0FDYyJzpjCp5dF8/view?usp=sharing)
   - [Project Report](https://drive.google.com/file/d/1KefmDG8jg4ZxVSm-8Cy_C7CaqzGLrPBb/view?usp=sharing)
   - [Project Source Code](https://github.com/ravindrakumaryadav/database-projects/tree/College_Management_System)
+## 6. Employee Transaction DB
+  - [Project Requirement](https://drive.google.com/file/d/1lsUEo8GCCI3UrohC6PMXO2OC7O8cATmQ/view?usp=sharing)
+  - [Project Report](https://drive.google.com/file/d/1lsUEo8GCCI3UrohC6PMXO2OC7O8cATmQ/view?usp=sharing)
+  - [Project Source Code](https://github.com/ravindrakumaryadav/database-projects/tree/main/EmployeeTransactions)
