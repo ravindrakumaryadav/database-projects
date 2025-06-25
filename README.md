@@ -1,6 +1,6 @@
 # [Database Projects](<a href="https://www.ersolve.com" target="_blank">www.ersolve.com</a>)
 ### For more detail- [visit](www.ersolve.com)
-## 1. AcmePharmacuticals Database
+## 1. Holly's Paw Print Factory Database
   - [Project Requirement](https://drive.google.com/file/d/1MKnkV_lvsR-C3NQDpBZxnGufU8nVEkx8/view?usp=sharing)
   - [Project Report](https://drive.google.com/file/d/1GdeUHR8cDGvbYJTjt8fdOj5FZvfPUVJX/view?usp=sharing)
   - [Project Code](https://github.com/ravindrakumaryadav/database-projects/tree/main/CS360_project)
