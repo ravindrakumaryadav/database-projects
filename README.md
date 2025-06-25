@@ -15,11 +15,6 @@
   - [Project Report](https://drive.google.com/file/d/1VxFB8Mrqi7KhFQ3RAF72mR2yibri-VEP/view?usp=sharing)
   - [Project Source Code](https://github.com/ravindrakumaryadav/database-projects/tree/Budget_Management_System)
     
-## 3. College Management System
-  - [Project Requirement](https://drive.google.com/file/d/1SiGPdhEXSCUtEiWbT0FDYyJzpjCp5dF8/view?usp=sharing)
-  - [Project Report](https://drive.google.com/file/d/1KefmDG8jg4ZxVSm-8Cy_C7CaqzGLrPBb/view?usp=sharing)
-  - [Project Source Code](https://github.com/ravindrakumaryadav/database-projects/tree/College_Management_System)
-    
 ## 4. College Management System
   - [Project Requirement](https://drive.google.com/file/d/1SiGPdhEXSCUtEiWbT0FDYyJzpjCp5dF8/view?usp=sharing)
   - [Project Report](https://drive.google.com/file/d/1KefmDG8jg4ZxVSm-8Cy_C7CaqzGLrPBb/view?usp=sharing)
