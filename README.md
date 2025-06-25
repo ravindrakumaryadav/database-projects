@@ -28,3 +28,8 @@
   - [Project Requirement](https://drive.google.com/file/d/1lsUEo8GCCI3UrohC6PMXO2OC7O8cATmQ/view?usp=sharing)
   - [Project Report](https://drive.google.com/file/d/1lsUEo8GCCI3UrohC6PMXO2OC7O8cATmQ/view?usp=sharing)
   - [Project Source Code](https://github.com/ravindrakumaryadav/database-projects/tree/main/EmployeeTransactions)
+
+## 7. Assignment DB
+  - [Project Requirement](https://drive.google.com/file/d/1eLBuBpmTU6L-ZvJGTQ9PuZEoYrBuBwz6/view?usp=sharing)
+  - [Project Report](https://drive.google.com/file/d/1BhcZ4aYzCuJBB1LEcs9vtOKMObAAehb4/view?usp=sharing)
+  - [Project Source Code](https://github.com/ravindrakumaryadav/database-projects/tree/main/Exam%20Answer%20Sheet%20-%20Fall%202020)
